@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 7, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:**
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Today was the setup day for this challenge. Given below are some of my goals,
 
-**Link to work:** [Calculator App](http://www.example.com)
+1. Complete the full stack certification offered by freeCodeCamp along with the challenges specified in The Odin Project
+2. Get a strong foundation in HTML, CSS and especially JS by working on various projects
+3. Get good with the MERN (Mongo DB, ExpressJS, ReactJS, NodeJS) stack
+4. Build my portfolio website
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:**
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Spent ~2 hours and finished the Basic HTML and CSS challenges as part of the Responsive Web Design Certification
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:**
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Tweet](https://twitter.com/premkiran97/status/1303036667700240385)
