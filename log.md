@@ -18,3 +18,17 @@ Spent ~2 hours and finished the Basic HTML and CSS challenges as part of the Res
 **Link to work:**
 
 [Tweet](https://twitter.com/premkiran97/status/1303036667700240385)
+
+### Day 1: September 8, 2020
+
+**Today's Progress:**
+
+Lack of progress today. Could complete only half the section of Applied Visual Design challenges
+
+**Thoughts:**
+
+Have to improve tomorrow after a poor start.
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1303391903925317632)

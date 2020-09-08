@@ -7,3 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [September 7, Monday, 2020].
 ### R1D1
 
 Spent ~2 hours and finished the Basic HTML and CSS challenges as part of the Responsive Web Design Certification
+
+### R1D2
+
+Have to improve tomorrow after a poor start
