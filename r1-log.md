@@ -11,3 +11,7 @@ Spent ~2 hours and finished the Basic HTML and CSS challenges as part of the Res
 ### R1D2
 
 Have to improve tomorrow after a poor start
+
+### R1D3
+
+These challenges got very boring today. I wonder how much I will remember of what I do or how useful they will be for me as most of them just involve changing few lines of code in the editor.

@@ -32,3 +32,18 @@ Have to improve tomorrow after a poor start.
 **Link to work:**
 
 [Tweet](https://twitter.com/premkiran97/status/1303391903925317632)
+
+
+### Day 2: September 9, 2020
+
+**Today's Progress:**
+
+Completed Visual Design, Accesibility and Responsive Design challenges. Understood importance of new HTML5 tags (nav, section, header, footer, article etc) in the context of accessibility, css animations etc. Wanted to finish flexbox and grid and start with projects tomorrow but got bored.
+
+**Thoughts:**
+
+These challenges got very boring today. I wonder how much I will remember of what I do or how useful they will be for me as most of them just involve changing few lines of code in the editor.
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1303739251255697408)
