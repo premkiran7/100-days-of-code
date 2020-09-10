@@ -4,14 +4,18 @@ The log of my #100DaysOfCode challenge. Started on [September 7, Monday, 2020].
 
 ## Log
 
-### R1D1
+### R1D0
 
 Spent ~2 hours and finished the Basic HTML and CSS challenges as part of the Responsive Web Design Certification
 
-### R1D2
+### R1D1
 
 Have to improve tomorrow after a poor start
 
-### R1D3
+### R1D2
 
 These challenges got very boring today. I wonder how much I will remember of what I do or how useful they will be for me as most of them just involve changing few lines of code in the editor.
+
+### R1D3
+
+Understood the power of flexbox and grid in particular. Wonder what the future has in store one day when people find faults with CSS grid.

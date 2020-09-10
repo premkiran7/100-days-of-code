@@ -47,3 +47,17 @@ These challenges got very boring today. I wonder how much I will remember of wha
 **Link to work:**
 
 [Tweet](https://twitter.com/premkiran97/status/1303739251255697408)
+
+### Day 3: September 10, 2020
+
+**Today's Progress:**
+
+Finished flexbox and grid challenges. Already had a headstart with these two before. Started with the responsive design projects
+
+**Thoughts:**
+
+Understood the power of flexbox and grid in particular. Wonder what the future has in store one day when people find faults with CSS grid.
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1304120503829803008)
