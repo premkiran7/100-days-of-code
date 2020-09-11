@@ -19,3 +19,7 @@ These challenges got very boring today. I wonder how much I will remember of wha
 ### R1D3
 
 Understood the power of flexbox and grid in particular. Wonder what the future has in store one day when people find faults with CSS grid.
+
+### R1D4
+
+I should have taken less time to complete the tribute page but I messed up. Have to revisit grid and check what I have to change to get the required result.

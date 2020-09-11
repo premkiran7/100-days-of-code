@@ -61,3 +61,18 @@ Understood the power of flexbox and grid in particular. Wonder what the future h
 **Link to work:**
 
 [Tweet](https://twitter.com/premkiran97/status/1304120503829803008)
+
+### Day 4: September 11, 2020
+
+**Today's Progress:**
+
+Started work on a tribute page using CSS Grid. Couldn't complete what I wanted to do. Wanted to add a scroll for the timeline but didn't figure out how. 
+
+**Thoughts:**
+
+I should have taken less time to complete the tribute page but I messed up. Have to revisit grid, check what I have to change to get the required result.
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/pen/RwayGqJ)
+[Tweet](https://twitter.com/premkiran97/status/1304466429001957377)
