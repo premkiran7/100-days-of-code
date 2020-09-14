@@ -23,3 +23,7 @@ Understood the power of flexbox and grid in particular. Wonder what the future h
 ### R1D4
 
 I should have taken less time to complete the tribute page but I messed up. Have to revisit grid and check what I have to change to get the required result.
+
+### R1D5
+
+Completed Tribute Page work. 1 down 4 to go. Took a lot of time to complete the work, but I think I will improve as time passes and I work on more projects. Still need to understand a lot of things clearly.

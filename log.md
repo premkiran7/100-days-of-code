@@ -33,7 +33,6 @@ Have to improve tomorrow after a poor start.
 
 [Tweet](https://twitter.com/premkiran97/status/1303391903925317632)
 
-
 ### Day 2: September 9, 2020
 
 **Today's Progress:**
@@ -66,7 +65,7 @@ Understood the power of flexbox and grid in particular. Wonder what the future h
 
 **Today's Progress:**
 
-Started work on a tribute page using CSS Grid. Couldn't complete what I wanted to do. Wanted to add a scroll for the timeline but didn't figure out how. 
+Started work on a tribute page using CSS Grid. Couldn't complete what I wanted to do. Wanted to add a scroll for the timeline but didn't figure out how.
 
 **Thoughts:**
 
@@ -76,3 +75,18 @@ I should have taken less time to complete the tribute page but I messed up. Have
 
 [Code Pen](https://codepen.io/premkiran7/pen/RwayGqJ)
 [Tweet](https://twitter.com/premkiran97/status/1304466429001957377)
+
+### Day 5: September 14, 2020
+
+**Today's Progress:**
+
+Finished work on the tribute page (First responsive design project on FreeCodeCamp). Learnt about viewport units, object-fit, object-position properties, replaced elements. pseudo elements etc. Built a [vertical response timeline](https://github.com/Mathunes/timeline) by modifying it as per my use case.
+
+**Thoughts:**
+
+Completed Tribute Page work. 1 down 4 to go. Took a lot of time to complete the work, but I think I will improve as time passes and I work on more projects. Still need to understand a lot of things clearly.
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/pen/RwayGqJ)
+[Tweet](https://twitter.com/premkiran97/status/1305547139737509898)
