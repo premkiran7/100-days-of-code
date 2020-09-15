@@ -90,3 +90,18 @@ Completed Tribute Page work. 1 down 4 to go. Took a lot of time to complete the 
 
 [Code Pen](https://codepen.io/premkiran7/pen/RwayGqJ)
 [Tweet](https://twitter.com/premkiran97/status/1305547139737509898)
+
+### Day 6: September 15, 2020
+
+**Today's Progress:**
+
+Finished work on the survey form (Second responsive design project on FreeCodeCamp). Learnt about various form fields, datafield vs select, setting a perfect full page background image using background-size property etc
+
+**Thoughts:**
+
+Completed Survey Form work. 2 down 3 to go. Target was to complete all the remaining 3 projects also today but I think I am setting lofty/impractical goals.
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/pen/dyMjYBy)
+[Tweet](https://twitter.com/premkiran97/status/1305901581670387712)

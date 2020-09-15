@@ -27,3 +27,7 @@ I should have taken less time to complete the tribute page but I messed up. Have
 ### R1D5
 
 Completed Tribute Page work. 1 down 4 to go. Took a lot of time to complete the work, but I think I will improve as time passes and I work on more projects. Still need to understand a lot of things clearly.
+
+### R1D6
+
+Completed Survey Form work. 2 down 3 to go. Target was to complete all the remaining 3 projects also today but I think I am setting lofty/impractical goals.
