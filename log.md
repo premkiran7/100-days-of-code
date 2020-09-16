@@ -105,3 +105,18 @@ Completed Survey Form work. 2 down 3 to go. Target was to complete all the remai
 
 [Code Pen](https://codepen.io/premkiran7/pen/dyMjYBy)
 [Tweet](https://twitter.com/premkiran97/status/1305901581670387712)
+
+### Day 7: September 16, 2020
+
+**Today's Progress:**
+
+Worked on the product landing page (Third responsive design project on FreeCodeCamp). Took reference from traversy media. Learnt a lot about general coding patterns like usage of colours, proper commenting, usage of rems etc watching the [video](https://youtu.be/61R5kn_kYwY). Yet to finish work with media queries.
+
+**Thoughts:**
+
+Wanted to finish the remaining projects today itself, but couldn't. I have to work faster. Most of my time gets wasted as I get confused with basic things like position, display etc.
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/full/VwaGZod)
+[Tweet](https://twitter.com/premkiran97/status/1306297908858245121)

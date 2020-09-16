@@ -31,3 +31,7 @@ Completed Tribute Page work. 1 down 4 to go. Took a lot of time to complete the 
 ### R1D6
 
 Completed Survey Form work. 2 down 3 to go. Target was to complete all the remaining 3 projects also today but I think I am setting lofty/impractical goals.
+
+### R1D7
+
+Wanted to finish the remaining projects today itself, but couldn't. I have to work faster. Most of my time gets wasted as I get confused with basic things like position, display etc.
