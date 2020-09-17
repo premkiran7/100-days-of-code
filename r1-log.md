@@ -35,3 +35,7 @@ Completed Survey Form work. 2 down 3 to go. Target was to complete all the remai
 ### R1D7
 
 Wanted to finish the remaining projects today itself, but couldn't. I have to work faster. Most of my time gets wasted as I get confused with basic things like position, display etc.
+
+### R1D8
+
+2 more to go. Just can't wait to get it done and take some rest. I have noticed that either my basics ain't clear in CSS or maybe I need more time as I found myself struggling with the logo on the navbar today.

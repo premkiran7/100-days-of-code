@@ -120,3 +120,18 @@ Wanted to finish the remaining projects today itself, but couldn't. I have to wo
 
 [Code Pen](https://codepen.io/premkiran7/full/VwaGZod)
 [Tweet](https://twitter.com/premkiran97/status/1306297908858245121)
+
+### Day 8: September 17, 2020
+
+**Today's Progress:**
+
+Finished work on the product landing page and started work on the technical documentation page. Built accordions and navbars for the page.
+
+**Thoughts:**
+
+2 more to go. Just can't wait to get it done and take some rest. I have noticed that either my basics ain't clear in CSS or maybe I need more time as I found myself struggling with the logo on the navbar today.
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/pen/ZEWModP)
+[Tweet](https://twitter.com/premkiran97/status/1306653038841454593)
