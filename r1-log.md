@@ -43,3 +43,7 @@ Wanted to finish the remaining projects today itself, but couldn't. I have to wo
 ### R1D9
 
 1 more to go. Will be working on the big fish (portfolio project) that I had wanted to build. Today was a not so productive day. Had lots of mood swings (feelings of hope, positivity, fear, despair, helplessness). I just want to keep going and not worry about my end goals of this journey.
+
+### R1D10
+
+Nothing much today. Spent time learning about open source and hacktoberfest.
