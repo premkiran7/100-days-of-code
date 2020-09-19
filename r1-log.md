@@ -39,3 +39,11 @@ Wanted to finish the remaining projects today itself, but couldn't. I have to wo
 ### R1D8
 
 2 more to go. Just can't wait to get it done and take some rest. I have noticed that either my basics ain't clear in CSS or maybe I need more time as I found myself struggling with the logo on the navbar today.
+
+### R1D9
+
+1 more to go. Will be working on the big fish (portfolio project) that I had wanted to build. Today was a not so productive day. Had lots of mood swings (feelings of hope, positivity, fear, despair, helplessness). I just want to keep going and not worry about my end goals of this journey.
+
+### R1D10
+
+Nothing much today. Spent time learning about open source and hacktoberfest.

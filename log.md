@@ -135,3 +135,33 @@ Finished work on the product landing page and started work on the technical docu
 
 [Code Pen](https://codepen.io/premkiran7/pen/ZEWModP)
 [Tweet](https://twitter.com/premkiran97/status/1306653038841454593)
+
+### Day 9: September 18, 2020
+
+**Today's Progress:**
+
+Finished work on the technical doc page. Wanted to create a floating button to access top nav bar on small devices similar to react docs but didn't do that. Was unable to create a fixed side nav bar with scrolling content. Referred some tutorials and tried but maybe my understanding was not perfect, so couldn’t finish it and got frustrated :angry: :rage:
+
+**Thoughts:**
+
+1 more to go. Will be working on the big fish (portfolio project) that I had wanted to build. Today was a not so productive day. Had lots of mood swings (feelings of hope, positivity, fear, despair, helplessness). I just want to keep going and not worry about my end goals of this journey.
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/pen/ZEWModP)
+[Tweet](https://twitter.com/premkiran97/status/1307012483048062976)
+
+### Day 10: September 19, 2020
+
+**Today's Progress:**
+
+Started work on the personal portfolio webpage
+
+**Thoughts:**
+
+Nothing much today. Spent time learning about open source and hacktoberfest.
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/pen/MWyPqeE)
+[Tweet](https://twitter.com/premkiran97/status/1307375130583027714)
