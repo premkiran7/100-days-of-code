@@ -47,3 +47,13 @@ Wanted to finish the remaining projects today itself, but couldn't. I have to wo
 ### R1D10
 
 Nothing much today. Spent time learning about open source and hacktoberfest.
+
+### R1D11
+
+Finally I completed the responsive web design certification, Phew! felt like eternity to me. Still lots of feedback to work on, but I am happy that I could atleast complete the work up to some extent. I now feel confident that I can atleast get going with HTML and CSS.
+
+Learnings
+
+- Things only seem complex until we start doing it
+- Practice makes a web developer perfect
+- Accessibility is important, web is for everyone, develop empathy towards all users

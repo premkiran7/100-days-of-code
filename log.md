@@ -165,3 +165,24 @@ Nothing much today. Spent time learning about open source and hacktoberfest.
 
 [Code Pen](https://codepen.io/premkiran7/pen/MWyPqeE)
 [Tweet](https://twitter.com/premkiran97/status/1307375130583027714)
+
+### Day 11: September 21, 2020
+
+**Today's Progress:**
+
+Finished work on the personal portfolio webpage. Layout still breaks when screen width is below 650px for some elements. Have to figure out whether to use ems/rems for media queries.
+
+**Thoughts:**
+
+Finally I completed the responsive web design certification, Phew! felt like eternity to me. Still lots of feedback to work on, but I am happy that I could atleast complete the work up to some extent. I now feel confident that I can atleast get going with HTML and CSS.
+
+Learnings
+
+- Things only seem complex until we start doing it
+- Practice makes a web developer perfect
+- Accessibility is important, web is for everyone, develop empathy towards all users
+
+**Link to work:**
+
+[Code Pen](https://codepen.io/premkiran7/pen/MWyPqeE)
+[Tweet](https://twitter.com/premkiran97/status/1308108880019222529)
