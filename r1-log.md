@@ -57,3 +57,7 @@ Learnings
 - Things only seem complex until we start doing it
 - Practice makes a web developer perfect
 - Accessibility is important, web is for everyone, develop empathy towards all users
+
+### R1D12
+
+Wanted to start frontend masters tutorials (professional path), finish all challenges today and start with projects from tomorrow but couldn't reach my target. Have to pickup. Time is the most valuable asset.

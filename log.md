@@ -186,3 +186,17 @@ Learnings
 
 [Code Pen](https://codepen.io/premkiran7/pen/MWyPqeE)
 [Tweet](https://twitter.com/premkiran97/status/1308108880019222529)
+
+### Day 12: September 22, 2020
+
+**Today's Progress:**
+
+Started with the JS Algo & DS challenges. Got really bored doing these challenges in basic JS section as only some challenges were new to me.
+
+**Thoughts:**
+
+Wanted to start frontend masters tutorials (professional path), finish all challenges today and start with projects from tomorrow but couldn't reach my target. Have to pickup. Time is the most valuable asset.
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1308461524193746944)
