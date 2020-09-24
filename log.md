@@ -200,3 +200,31 @@ Wanted to start frontend masters tutorials (professional path), finish all chall
 **Link to work:**
 
 [Tweet](https://twitter.com/premkiran97/status/1308461524193746944)
+
+### Day 13: September 23, 2020
+
+**Today's Progress:**
+
+Finished some portion of the JS DS & Algo challenges. I did learn new things about JS, but felt that I was taking a lot of time. Working on these challenges kind of makes me lazy and get bored quickly, thus end I end up wasting my time. Need to balance.
+
+**Thoughts:**
+
+Plan was to finish the challenges today, but some still remain.
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1308835571637379075)
+
+### Day 14: September 24, 2020
+
+**Today's Progress:**
+
+Finished 3 among the 5 projects of JS DS & Algo Challenges. Was expecting a lot from the projects, but felt disappointed. Anyways learnt a lot of things today like mixins, currying, prototypes etc. Need to find ways to use them.
+
+**Thoughts:**
+
+With 3 days remaining in the week, need to buck up and finish up remaining work.
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1309191071918747648)

@@ -61,3 +61,11 @@ Learnings
 ### R1D12
 
 Wanted to start frontend masters tutorials (professional path), finish all challenges today and start with projects from tomorrow but couldn't reach my target. Have to pickup. Time is the most valuable asset.
+
+### R1D13
+
+Plan was to finish the challenges today, but some still remain.
+
+### R1D14
+
+With 3 days remaining in the week, need to buck up and finish up remaining work.
