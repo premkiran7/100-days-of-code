@@ -228,3 +228,46 @@ With 3 days remaining in the week, need to buck up and finish up remaining work.
 **Link to work:**
 
 [Tweet](https://twitter.com/premkiran97/status/1309191071918747648)
+
+### Day 15: September 27, 2020
+
+**Today's Progress:**
+
+Completed 1 of the 2 remaining projects of JS DS & Algo Challenges on freeCodeCamp.
+Should be able to wrap up tomorrow.
+
+**Thoughts:**
+
+None
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1309924197053816833)
+
+### Day 16: September 28, 2020
+
+**Today's Progress:**
+
+Completed JS DS & Algo Certification. The last few challenges really made me frustrated as I was not able to arrive at the solution, but when I did get it right, it was a wonderful feeling. Starting with Frontend Libraries tomorrow.
+
+**Thoughts:**
+
+None
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1310647832559280130)
+
+### Day 17: Oct 1, 2020
+
+**Today's Progress:**
+
+Got distracted with hacktoberfest PR's over the last few days. Learnt some haskell today -> https://github.com/kowainik/learn4haskell by completing chapter 1 tasks. freeCodeCamp certifications and other work has taken a hit. Should pick up from tomorrow.
+
+**Thoughts:**
+
+Consistency in work is required
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1311717727552237568)

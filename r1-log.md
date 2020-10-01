@@ -69,3 +69,15 @@ Plan was to finish the challenges today, but some still remain.
 ### R1D14
 
 With 3 days remaining in the week, need to buck up and finish up remaining work.
+
+### R1D15
+
+Completed 1 of the 2 remaining projects of JS DS & Algo Challenges on freeCodeCamp
+
+### R1D16
+
+Completed JS DS & Algo Certification.
+
+### R1D17
+
+Got distracted with hacktoberfest PR's over the last few days
