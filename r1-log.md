@@ -81,3 +81,7 @@ Completed JS DS & Algo Certification.
 ### R1D17
 
 Got distracted with hacktoberfest PR's over the last few days
+
+### R1D18
+
+Completed the Frontend Libraries Challenges. Back after a long gap

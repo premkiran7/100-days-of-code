@@ -271,3 +271,17 @@ Consistency in work is required
 **Link to work:**
 
 [Tweet](https://twitter.com/premkiran97/status/1311717727552237568)
+
+### Day 18: Oct 6, 2020
+
+**Today's Progress:**
+
+Completed the Frontend Libraries Challenges. Have to start with projects from tomorrow
+
+**Thoughts:**
+
+Back after a long gap
+
+**Link to work:**
+
+[Tweet](https://twitter.com/premkiran97/status/1313523890010742785)
